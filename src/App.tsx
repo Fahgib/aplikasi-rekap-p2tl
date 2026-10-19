@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import * as XLSX from 'xlsx';
 import {
   UploadCloud,
